@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Google Scholar Profile Snapshot</title>
+  <meta name="description" content="Auto-generated Google Scholar profile snapshot." />
+  <style>
+    :root {
+      --bg: #0b1220;
+      --panel: #111827;
+      --panel2: #1f2937;
+      --text: #e5e7eb;
+      --muted: #94a3b8;
+      --accent: #93c5fd;
+      --border: rgba(255,255,255,.10);
+      --max: 1100px;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.6;
+      color: var(--text);
+      background: linear-gradient(180deg, #08101d 0%, var(--bg) 100%);
+    }
+    .wrap { max-width: var(--max); margin: 0 auto; padding: 32px 20px 56px; }
+    .hero, .card {
+      background: rgba(17,24,39,.86);
+      border: 1px solid var(--border);
+      border-radius: 22px;
+      padding: 24px;
+      margin-bottom: 22px;
+    }
+    h1, h2, h3 { margin-top: 0; }
+    .subtitle, .muted { color: var(--muted); }
+    .chips { display: flex; flex-wrap: wrap; gap: 10px; padding: 0; list-style: none; }
+    .chips li {
+      border: 1px solid rgba(147,197,253,.2);
+      background: rgba(147,197,253,.08);
+      border-radius: 999px;
+      padding: 7px 12px;
+    }
+    .stats { display: grid; grid-template-columns: repeat(3, 1fr); gap: 14px; }
+    .stat {
+      border: 1px solid var(--border);
+      background: rgba(255,255,255,.03);
+      border-radius: 16px;
+      padding: 16px;
+    }
+    .value { font-size: 1.7rem; font-weight: 700; }
+    .label { color: var(--muted); font-size: .95rem; }
+    .pub {
+      padding: 16px 0;
+      border-top: 1px solid var(--border);
+    }
+    .pub:first-child { border-top: none; padding-top: 0; }
+    a { color: var(--accent); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    footer { color: var(--muted); font-size: .94rem; margin-top: 20px; }
+    @media (max-width: 800px) {
+      .stats { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <section class="hero">
+      <p class="muted">Auto-generated from a scheduled profile fetch</p>
+      <h1>{{NAME}}</h1>
+      <p class="subtitle">{{AFFILIATION}}</p>
+      <ul class="chips">
+        {{INTERESTS}}
+      </ul>
+      <p>
+        <a href="{{SCHOLAR_URL}}" target="_blank" rel="noopener noreferrer">Open full Google Scholar profile</a>
+      </p>
+    </section>
+
+    <section class="card">
+      <h2>At a glance</h2>
+      <div class="stats">
+        <div class="stat">
+          <div class="value">{{CITATIONS_ALL}}</div>
+          <div class="label">Citations</div>
+        </div>
+        <div class="stat">
+          <div class="value">{{HINDEX_ALL}}</div>
+          <div class="label">h-index</div>
+        </div>
+        <div class="stat">
+          <div class="value">{{I10_ALL}}</div>
+          <div class="label">i10-index</div>
+        </div>
+      </div>
+      <p class="muted" style="margin-top:16px;">Last updated: {{LAST_UPDATED}}</p>
+    </section>
+
+    <section class="card">
+      <h2>Selected publications</h2>
+      {{PUBLICATIONS}}
+    </section>
+
+    <footer>
+      This page is generated automatically by GitHub Actions. If Google Scholar blocks automated access, the update may fail until rerun.
+    </footer>
+  </div>
+</body>
+</html>
