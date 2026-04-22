@@ -1,0 +1,90 @@
+# GitHub Action: Auto-update Google Scholar citation metrics
+# Runs weekly on Mondays at 06:00 UTC, or manually via workflow_dispatch
+# Uses the 'scholarly' Python package to scrape Google Scholar profile data
+# and updates ONLY the citation numbers in scholar_data.json.
+# New publications must be added manually to the HTML page and JSON file.
+#
+# Note: Google Scholar may rate-limit or block automated scraping.
+# If that happens, consider using SerpAPI (requires API key) instead.
+
+name: Update Scholar Metrics
+
+on:
+  schedule:
+    - cron: '0 6 * * 1'  # Every Monday at 06:00 UTC
+  workflow_dispatch:       # Allow manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  update-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install scholarly
+
+      - name: Fetch Google Scholar metrics
+        run: |
+          python3 << 'PYEOF'
+          import json
+          import os
+          from datetime import datetime, timezone
+          from scholarly import scholarly
+
+          SCHOLAR_ID = "zy1UxxUAAAAJ"
+          DATA_FILE  = "GoogleScholar/scholar_data.json"
+
+          # ── Load existing data ──
+          if os.path.exists(DATA_FILE):
+              with open(DATA_FILE, "r") as f:
+                  data = json.load(f)
+          else:
+              data = {"lastUpdated": "", "metrics": {}, "publicationCitations": {}}
+
+          try:
+              author = scholarly.search_author_id(SCHOLAR_ID)
+              author = scholarly.fill(author, sections=["basics", "indices", "publications"])
+
+              # ── Update aggregate metrics ──
+              data["metrics"]["citations"] = author.get("citedby", data["metrics"].get("citations", 0))
+              data["metrics"]["hIndex"]    = author.get("hindex",  data["metrics"].get("hIndex", 0))
+              data["metrics"]["i10Index"]  = author.get("i10index", data["metrics"].get("i10Index", 0))
+
+              # ── Update per-paper citation counts (only for papers already in the JSON) ──
+              existing_titles = set(data.get("publicationCitations", {}).keys())
+              for pub in author.get("publications", []):
+                  title = pub.get("bib", {}).get("title", "")
+                  for existing_title in existing_titles:
+                      if title.lower().strip() == existing_title.lower().strip():
+                          data["publicationCitations"][existing_title] = pub.get("num_citations", 0)
+                          break
+
+              data["lastUpdated"] = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+
+              with open(DATA_FILE, "w") as f:
+                  json.dump(data, f, indent=2)
+
+              print(f"Updated: {data['metrics']['citations']} citations, "
+                    f"h-index {data['metrics']['hIndex']}, "
+                    f"i10-index {data['metrics']['i10Index']}")
+
+          except Exception as e:
+              print(f"Error fetching scholar data: {e}")
+              exit(1)
+          PYEOF
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add GoogleScholar/scholar_data.json
+          git diff --cached --quiet || git commit -m "Auto-update Google Scholar metrics [skip ci]"
+          git push
