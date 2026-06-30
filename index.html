@@ -32,19 +32,43 @@
   <link rel="me" href="https://www.semanticscholar.org/author/Oliver-Richard-Inderwildi/6043368" />
   <link rel="me" href="https://x.com/oridw" />
   <link rel="me" href="https://oxford.academia.edu/OliverInderwildi" />
+  <style>
+.site-nav{position:fixed;top:0;left:0;right:0;z-index:1000;background:rgba(16,14,12,0.92);backdrop-filter:blur(20px);-webkit-backdrop-filter:blur(20px);border-bottom:1px solid rgba(200,191,176,0.12);padding:0;}
+.nav-inner{max-width:1200px;margin:0 auto;padding:0 2rem;display:flex;align-items:center;justify-content:space-between;height:60px;}
+.nav-left,.nav-right{display:flex;align-items:center;gap:0.25rem;}
+.nav-center{position:absolute;left:50%;transform:translateX(-50%);}
+.nav-center a{font-family:'Playfair Display',serif;font-size:1.15rem;font-weight:600;color:var(--cream);text-decoration:none;letter-spacing:0.02em;}
+.nav-center a:hover{color:var(--gold);}
+.nav-link{font-family:'JetBrains Mono',monospace;font-size:0.72rem;font-weight:500;letter-spacing:0.1em;text-transform:uppercase;color:var(--cream-dim);text-decoration:none;padding:0.5rem 0.85rem;border-radius:6px;transition:all .2s ease;}
+.nav-link:hover{color:var(--cream);background:rgba(184,146,42,0.12);}
+.nav-link.library{color:#5b8a72;border:1px solid #3d6b52;background:rgba(91,138,114,0.08);}
+.nav-link.library:hover,.nav-link.library.active{background:rgba(91,138,114,0.2);color:#7dc4a0;}
+.nav-link.monitor{color:var(--gold);border:1px solid rgba(184,146,42,0.4);background:rgba(184,146,42,0.1);}
+.nav-link.monitor:hover{background:rgba(184,146,42,0.2);color:#d9b347;}
+.nav-link.infographics{color:#8a7bc8;border:1px solid rgba(138,123,200,0.4);background:rgba(138,123,200,0.1);}
+.nav-link.infographics:hover{background:rgba(138,123,200,0.2);color:#a899e0;}
+.page-header{padding-top:7rem !important;}
+@media(max-width:600px){.nav-left,.nav-right{display:none;}.nav-inner{justify-content:center;}.nav-center{position:static;transform:none;}}
+</style>
 </head>
 <body>
-  <nav class="site-nav">
-    <a href="/" class="nav-brand">Oliver Inderwildi</a>
-    <ul class="nav-links">
-      <li><a href="/#series">Articles</a></li>
-      <li><a href="/#books">Books</a></li>
-      <li><a href="/#library">Library</a></li>
-      <li><a href="/GoogleScholar/" class="active-link">Academic Papers</a></li>
-      <li><a href="https://www.youtube.com/@oliverinderwildi" target="_blank" rel="noopener">Videos</a></li>
-      <li><a href="/#presence">Contact</a></li>
-    </ul>
-  </nav>
+<nav class="site-nav">
+  <div class="nav-inner">
+    <div class="nav-left">
+      <a href="/GoogleScholar/" class="nav-link library active">Library</a>
+      <a href="/Monitor/" class="nav-link monitor">Monitor</a>
+      <a href="/Infographics/" class="nav-link infographics">Infographics</a>
+    </div>
+    <div class="nav-center">
+      <a href="/">Dr Oliver Inderwildi</a>
+    </div>
+    <div class="nav-right">
+      <a href="/#series" class="nav-link">Articles</a>
+      <a href="/#books" class="nav-link">Books</a>
+      <a href="/#presence" class="nav-link">Contact</a>
+    </div>
+  </div>
+</nav>
   <section class="page-header">
     <div class="container">
       <p class="page-eyebrow">University of Cambridge · Churchill College</p>
