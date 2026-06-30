@@ -1,76 +1,429 @@
 {
-  "scholar_url": "https://scholar.google.com/citations?user=zy1UxxUAAAAJ&hl=en",
-  "name": "Oliver Inderwildi",
-  "affiliation": "Senior Policy Fellow, Smith School, University of Oxford",
-  "interests": [
-    "Energy Security",
-    "Energy Policy",
-    "Environmental Policy"
-  ],
-  "citations_all": "5613",
-  "hindex_all": "31",
-  "i10_all": "41",
-  "last_updated": "2026-04-11 12:04 UTC",
+  "scholar_url": "https://scholar.google.com/citations?user=qS2dYUAAAAAJ&hl=en",
+  "scholarId": "qS2dYUAAAAAJ",
+  "last_updated": "2026-06-30T22:48:54Z",
+  "metrics": {
+    "citations_all": 5726,
+    "citations_2021": 1866,
+    "hindex_all": 31,
+    "hindex_2021": 20,
+    "i10_all": 42,
+    "i10_2021": 28
+  },
   "publications": [
     {
+      "citation_id": "qS2dYUAAAAAJ:qUcmZB5y_30C",
       "title": "Liquid fuels, hydrogen and chemicals from lignin: A critical review",
-      "author": "—",
-      "venue": "—",
-      "year": "2013"
+      "year": "2013",
+      "citations": 1402
     },
     {
+      "citation_id": "qS2dYUAAAAAJ:d1gkVwhDpl0C",
       "title": "The status of conventional world oil reserves—Hype or cause for concern?",
-      "author": "—",
-      "venue": "—",
-      "year": "2010"
+      "year": "2010",
+      "citations": 723
     },
     {
+      "citation_id": "qS2dYUAAAAAJ:e5wmG9Sq2KIC",
       "title": "Fischer− Tropsch mechanism revisited: alternative pathways for the production of higher hydrocarbons from synthesis gas",
-      "author": "—",
-      "venue": "—",
-      "year": "2008"
+      "year": "2008",
+      "citations": 334
     },
     {
+      "citation_id": "qS2dYUAAAAAJ:roLk4NBRz8UC",
       "title": "Quo vadis biofuels?",
-      "author": "—",
-      "venue": "—",
-      "year": "2009"
+      "year": "2009",
+      "citations": 259
     },
     {
+      "citation_id": "qS2dYUAAAAAJ:JV2RwH3_ST0C",
       "title": "The impact of intelligent cyber-physical systems on the decarbonization of energy",
-      "author": "—",
-      "venue": "—",
-      "year": "2020"
+      "year": "2020",
+      "citations": 245
     },
     {
+      "citation_id": "qS2dYUAAAAAJ:4TOpqqG69KYC",
       "title": "Life cycle energy and greenhouse gas analysis for algae-derived biodiesel",
-      "author": "—",
-      "venue": "—",
-      "year": "2011"
+      "year": "2011",
+      "citations": 205
     },
     {
+      "citation_id": "qS2dYUAAAAAJ:IWHjjKOFINEC",
       "title": "The carbon curse: Are fuel rich countries doomed to high CO2 intensities?",
-      "author": "—",
-      "venue": "—",
-      "year": "2013"
+      "year": "2013",
+      "citations": 187
     },
     {
+      "citation_id": "qS2dYUAAAAAJ:M3ejUd6NZC8C",
       "title": "Macroeconomic impacts of oil price volatility: mitigation and resilience",
-      "author": "—",
-      "venue": "—",
-      "year": "2014"
+      "year": "2014",
+      "citations": 166
     },
     {
-      "title": "Electronic and optical properties of aluminium-doped anatase and rutile  from ab initio calculations",
-      "author": "—",
-      "venue": "—",
-      "year": "2010"
+      "citation_id": "qS2dYUAAAAAJ:IjCSPb-OGe4C",
+      "title": "Electronic and optical properties of aluminium-doped anatase and rutile from ab initio calculations",
+      "year": "2010",
+      "citations": 152
     },
     {
+      "citation_id": "qS2dYUAAAAAJ:RHpTSmoSYBkC",
       "title": "The future of industrial biorefineries",
-      "author": "—",
-      "venue": "—",
-      "year": "2010"
+      "year": "2010",
+      "citations": 135
+    },
+    {
+      "citation_id": "qS2dYUAAAAAJ:WF5omc3nYNoC",
+      "title": "Indirect emissions from electric vehicles: emissions from electricity generation",
+      "year": "2010",
+      "citations": 131
+    },
+    {
+      "citation_id": "qS2dYUAAAAAJ:mVmsd5A6BfQC",
+      "title": "Mechanistic studies of hydrocarbon combustion and synthesis on noble metals.",
+      "year": "2008",
+      "citations": 131
+    },
+    {
+      "citation_id": "qS2dYUAAAAAJ:Zph67rFs4hoC",
+      "title": "The carbon footprint and non-renewable energy demand of algae-derived biodiesel",
+      "year": "2014",
+      "citations": 127
+    },
+    {
+      "citation_id": "qS2dYUAAAAAJ:_Qo2XoVZTnwC",
+      "title": "Toward a Comprehensive Model of the Synthesis of TiO2 Particles from TiCl4",
+      "year": "2007",
+      "citations": 117
+    },
+    {
+      "citation_id": "qS2dYUAAAAAJ:Wp0gIr-vW9MC",
+      "title": "Biofuels and synthetic fuels in the US and China: A review of Well-to-Wheel energy use and greenhouse gas emissions with the impact of land-use change",
+      "year": "2010",
+      "citations": 109
+    },
+    {
+      "citation_id": "qS2dYUAAAAAJ:5nxA0vEk-isC",
+      "title": "Life cycle energy and greenhouse gas analysis for agave-derived bioethanol",
+      "year": "2011",
+      "citations": 108
+    },
+    {
+      "citation_id": "qS2dYUAAAAAJ:-f6ydRqryjwC",
+      "title": "Competitive Adsorption of NO, NO2, CO2, and H2O on BaO(100): A Quantum Chemical Study",
+      "year": "2006",
+      "citations": 79
+    },
+    {
+      "citation_id": "qS2dYUAAAAAJ:UebtZRa9Y70C",
+      "title": "Coverage dependence of oxygen decomposition and surface diffusion on rhodium (111): A DFT study",
+      "year": "2005",
+      "citations": 79
+    },
+    {
+      "citation_id": "qS2dYUAAAAAJ:UeHWp8X0CEIC",
+      "title": "When adding an unreactive metal enhances catalytic activity: NOx decomposition over silver–rhodium bimetallic surfaces",
+      "year": "2007",
+      "citations": 77
+    },
+    {
+      "citation_id": "qS2dYUAAAAAJ:hFOr9nPyWt4C",
+      "title": "The simultaneous reduction of nitric oxide and soot in emissions from diesel engines",
+      "year": "2009",
+      "citations": 76
+    },
+    {
+      "citation_id": "qS2dYUAAAAAJ:qjMakFHDy7sC",
+      "title": "In-silico investigations in heterogeneous catalysis—Combustion and synthesis of small alkanes",
+      "year": "2008",
+      "citations": 68
+    },
+    {
+      "citation_id": "qS2dYUAAAAAJ:u5HHmVD_uO8C",
+      "title": "Effects of ethanol on vehicle energy efficiency and implications on ethanol life-cycle greenhouse gas analysis",
+      "year": "2013",
+      "citations": 65
+    },
+    {
+      "citation_id": "qS2dYUAAAAAJ:W7OEmFMy1HYC",
+      "title": "An unexpected pathway for the catalytic oxidation of methylidyne on Rh {111} as a route to syngas",
+      "year": "2007",
+      "citations": 65
+    },
+    {
+      "citation_id": "qS2dYUAAAAAJ:u-x6o8ySG0sC",
+      "title": "Energy, transport, & the environment: addressing the sustainable mobility paradigm",
+      "year": "2012",
+      "citations": 57
+    },
+    {
+      "citation_id": "qS2dYUAAAAAJ:Se3iqnhoufwC",
+      "title": "Simulation and life cycle assessment of algae gasification process in dual fluidized bed gasifiers",
+      "year": "2015",
+      "citations": 48
+    },
+    {
+      "citation_id": "qS2dYUAAAAAJ:LkGwnXOMwfcC",
+      "title": "Production of biorenewable hydrogen and syngas via algae gasification: a sensitivity analysis",
+      "year": "2014",
+      "citations": 43
+    },
+    {
+      "citation_id": "qS2dYUAAAAAJ:dhFuZR0502QC",
+      "title": "Adsorption, Diffusion and Desorption of Chlorine on and from Rutile TiO2{110}: A Theoretical Investigation",
+      "year": "2007",
+      "citations": 43
+    },
+    {
+      "citation_id": "qS2dYUAAAAAJ:70eg2SAEIzsC",
+      "title": "International collaboration: Mainstreaming artificial intelligence and cyberphysical systems for carbon neutrality",
+      "year": "2024",
+      "citations": 35
+    },
+    {
+      "citation_id": "qS2dYUAAAAAJ:QIV2ME_5wuYC",
+      "title": "Theoretical insights into the surface growth of rutile TiO2",
+      "year": "2011",
+      "citations": 35
+    },
+    {
+      "citation_id": "qS2dYUAAAAAJ:mB3voiENLucC",
+      "title": "Influence of initial oxygen coverage and magnetic moment on the NO decomposition on rhodium (111)",
+      "year": "2005",
+      "citations": 34
+    },
+    {
+      "citation_id": "qS2dYUAAAAAJ:ufrVoPGSRksC",
+      "title": "Global and local impacts of UK renewable energy policy",
+      "year": "2013",
+      "citations": 33
+    },
+    {
+      "citation_id": "qS2dYUAAAAAJ:YOwf2qJgpHMC",
+      "title": "The Catalyst Selectivity Index (CSI): A Framework and Metric to Assess the Impact of Catalyst Efficiency Enhancements upon Energy and CO2 Footprints",
+      "year": "2015",
+      "citations": 31
+    },
+    {
+      "citation_id": "qS2dYUAAAAAJ:L8Ckcad2t8MC",
+      "title": "Dynamic interplay between diffusion and reaction: Nitrogen recombination on Rh {211} in car exhaust catalysis",
+      "year": "2008",
+      "citations": 31
+    },
+    {
+      "citation_id": "qS2dYUAAAAAJ:ULOm3_A8WrAC",
+      "title": "Fischer-Tropsch synthesis of liquid fuels: learning lessons from homogeneous catalysis",
+      "year": "2009",
+      "citations": 30
+    },
+    {
+      "citation_id": "qS2dYUAAAAAJ:GnPB-g6toBAC",
+      "title": "The world avatar—A world model for facilitating interoperability",
+      "year": "2022",
+      "citations": 29
+    },
+    {
+      "citation_id": "qS2dYUAAAAAJ:8k81kl-MbHgC",
+      "title": "Unraveling the Fischer–Tropsch mechanism: a combined DFT and microkinetic investigation of C–C bond formation on Ru",
+      "year": "2012",
+      "citations": 28
+    },
+    {
+      "citation_id": "qS2dYUAAAAAJ:0EnyYjriUFMC",
+      "title": "Synergetic effects of the Cu/Pt {110} surface Alloy: Enhanced reactivity of water and carbon monoxide",
+      "year": "2008",
+      "citations": 28
+    },
+    {
+      "citation_id": "qS2dYUAAAAAJ:hC7cP41nSMkC",
+      "title": "Linear relationship between activation energies and reaction energies for coverage-dependent dissociation reactions on rhodium surfaces",
+      "year": "2005",
+      "citations": 28
+    },
+    {
+      "citation_id": "qS2dYUAAAAAJ:ns9cj8rnVeAC",
+      "title": "Intelligent decarbonisation",
+      "year": "2022",
+      "citations": 27
+    },
+    {
+      "citation_id": "qS2dYUAAAAAJ:TFP_iSt0sucC",
+      "title": "Advanced aerospace materials: past, present and future",
+      "year": "2009",
+      "citations": 27
+    },
+    {
+      "citation_id": "qS2dYUAAAAAJ:maZDTaKrznsC",
+      "title": "The license to mine: Making resource wealth work for those who need it most",
+      "year": "2021",
+      "citations": 25
+    },
+    {
+      "citation_id": "qS2dYUAAAAAJ:MXK_kJrjxJIC",
+      "title": "Influence of Coadsorbates on the NO Dissociation on a Rhodium (311) Surface",
+      "year": "2005",
+      "citations": 20
+    },
+    {
+      "citation_id": "qS2dYUAAAAAJ:HDshCWvjkbEC",
+      "title": "Future of mobility roadmaps",
+      "year": "2010",
+      "citations": 9
+    },
+    {
+      "citation_id": "qS2dYUAAAAAJ:_FxGoFyzp5QC",
+      "title": "Fuel cell technology",
+      "year": "2012",
+      "citations": 7
+    },
+    {
+      "citation_id": "qS2dYUAAAAAJ:RGFaLdJalmkC",
+      "title": "Cyber-physical systems in decarbonisation",
+      "year": "2022",
+      "citations": 6
+    },
+    {
+      "citation_id": "qS2dYUAAAAAJ:9ZlFYXVOiuMC",
+      "title": "Oxidation of hydrocarbons at surface defects: unprecedented confirmation of the oxomethylidyne pathway on a stepped rh surface",
+      "year": "2008",
+      "citations": 5
+    },
+    {
+      "citation_id": "qS2dYUAAAAAJ:hqOjcs7Dif8C",
+      "title": "Multiscale Modelling for Automotive Exhaust-Gas Aftertreatment–From the Quantum Chemistry to the Engineering Level",
+      "year": "2005",
+      "citations": 5
+    },
+    {
+      "citation_id": "qS2dYUAAAAAJ:isC4tDSrTZIC",
+      "title": "Enhanced procurement and production strategies for chemical plants: Utilizing real-time financial data and advanced algorithms",
+      "year": "2019",
+      "citations": 4
+    },
+    {
+      "citation_id": "qS2dYUAAAAAJ:KlAtU1dfN6UC",
+      "title": "Energy shift: decline of easy oil and restructuring of geo-politics",
+      "year": "2016",
+      "citations": 4
+    },
+    {
+      "citation_id": "qS2dYUAAAAAJ:qxL8FJ1GzNcC",
+      "title": "The feedstock curve: novel fuel resources, environmental conservation, the force of economics and the renewed east–west power struggle",
+      "year": "2014",
+      "citations": 4
+    },
+    {
+      "citation_id": "qS2dYUAAAAAJ:aqlVkmm33-oC",
+      "title": "Mechanistische Studien der katalytischen Verbrennung und Synthese von Kohlenwasserstoffen auf Ubergangsmetalloberflachen",
+      "year": "2008",
+      "citations": 3
+    },
+    {
+      "citation_id": "qS2dYUAAAAAJ:YsMSGLbcyi4C",
+      "title": "Reaction processes on catalytically active surfaces",
+      "year": "2007",
+      "citations": 3
+    },
+    {
+      "citation_id": "qS2dYUAAAAAJ:j3f4tGmQtD8C",
+      "title": "A futuristic view of gas-to-liquid technology",
+      "year": "2011",
+      "citations": 2
+    },
+    {
+      "citation_id": "qS2dYUAAAAAJ:35N4QoGY0k4C",
+      "title": "Advancing AI for Climate Action: Global Collaboration on Intelligent Decarbonisation",
+      "year": "2023",
+      "citations": 1
+    },
+    {
+      "citation_id": "qS2dYUAAAAAJ:zYLM7Y9cAGgC",
+      "title": "The Challenges and Opportunities of Synthetic Liquid Biofuels",
+      "year": "2009",
+      "citations": 1
+    },
+    {
+      "citation_id": "qS2dYUAAAAAJ:M05iB0D1s5AC",
+      "title": "From Gridlock to Grid Asset: Data Centres for Digital Sovereignty, Energy Resilience, and Competitiveness",
+      "year": "2025",
+      "citations": null
+    },
+    {
+      "citation_id": "qS2dYUAAAAAJ:RYcK_YlVTxYC",
+      "title": "Net-zero Greenhouse Gas Emissions Society",
+      "year": "2021",
+      "citations": null
+    },
+    {
+      "citation_id": "qS2dYUAAAAAJ:NMxIlDl6LWMC",
+      "title": "The Catalyst Sensitivity Index (CSI): A Framework and Metric to Assess the Impact of Catalyst Efficiency Enhancements upon Energy and CO2 Footprints (vol 58, pg …",
+      "year": "2020",
+      "citations": null
+    },
+    {
+      "citation_id": "qS2dYUAAAAAJ:k_IJM867U9cC",
+      "title": "Correction to: The Catalyst Sensitivity Index (CSI): A Framework and Metric to Assess the Impact of Catalyst Efficiency Enhancements upon Energy and CO 2 Footprints",
+      "year": "2020",
+      "citations": null
+    },
+    {
+      "citation_id": "qS2dYUAAAAAJ:bEWYMUwI8FkC",
+      "title": "rsc. li/ees",
+      "year": "2019",
+      "citations": null
+    },
+    {
+      "citation_id": "qS2dYUAAAAAJ:eQOLeE2rZwMC",
+      "title": "Response to Comment on “Effects of Ethanol on Vehicle Energy Efficiency and Implications on Ethanol Life-Cycle Greenhouse Gas Analysis”",
+      "year": "2014",
+      "citations": null
+    },
+    {
+      "citation_id": "qS2dYUAAAAAJ:2P1L_qKh6hAC",
+      "title": "Effects of ethanol on vehicle energy efficiency and implications on ethanol life-cycle greenhouse gas analysis.",
+      "year": "2013",
+      "citations": null
+    },
+    {
+      "citation_id": "qS2dYUAAAAAJ:4JMBOYKVnBMC",
+      "title": "Energy Harnessing: New Solutions for Sustainability and Growing Demand",
+      "year": "2013",
+      "citations": null
+    },
+    {
+      "citation_id": "qS2dYUAAAAAJ:iH-uZ7U-co4C",
+      "title": "rsc. li/ees",
+      "year": "2003",
+      "citations": null
+    },
+    {
+      "citation_id": "qS2dYUAAAAAJ:vV6vV6tmYwMC",
+      "title": "rsc. li/ees",
+      "year": "",
+      "citations": null
+    },
+    {
+      "citation_id": "qS2dYUAAAAAJ:lSLTfruPkqcC",
+      "title": "rsc. li/ees",
+      "year": "",
+      "citations": null
+    },
+    {
+      "citation_id": "qS2dYUAAAAAJ:O3NaXMp0MMsC",
+      "title": "rsc. li/ees",
+      "year": "",
+      "citations": null
+    },
+    {
+      "citation_id": "qS2dYUAAAAAJ:M3NEmzRMIkIC",
+      "title": "115 A Transient Modeling and Simulation Study of Catalytic Decomposition of NOx over Rhodium",
+      "year": "",
+      "citations": null
+    },
+    {
+      "citation_id": "qS2dYUAAAAAJ:r0BpntZqJG4C",
+      "title": "Exploiting arbitrage opportunities on commodity futures market as a chemical plant",
+      "year": "",
+      "citations": null
     }
   ]
 }
