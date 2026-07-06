@@ -1,10 +1,10 @@
 {
   "scholar_url": "https://scholar.google.com/citations?user=qS2dYUAAAAAJ&hl=en",
   "scholarId": "qS2dYUAAAAAJ",
-  "last_updated": "2026-06-30T22:48:54Z",
+  "last_updated": "2026-07-06T09:51:19Z",
   "metrics": {
-    "citations_all": 5726,
-    "citations_2021": 1866,
+    "citations_all": 5730,
+    "citations_2021": 1871,
     "hindex_all": 31,
     "hindex_2021": 20,
     "i10_all": 42,
@@ -27,7 +27,7 @@
       "citation_id": "qS2dYUAAAAAJ:e5wmG9Sq2KIC",
       "title": "Fischer− Tropsch mechanism revisited: alternative pathways for the production of higher hydrocarbons from synthesis gas",
       "year": "2008",
-      "citations": 334
+      "citations": 335
     },
     {
       "citation_id": "qS2dYUAAAAAJ:roLk4NBRz8UC",
@@ -39,7 +39,7 @@
       "citation_id": "qS2dYUAAAAAJ:JV2RwH3_ST0C",
       "title": "The impact of intelligent cyber-physical systems on the decarbonization of energy",
       "year": "2020",
-      "citations": 245
+      "citations": 247
     },
     {
       "citation_id": "qS2dYUAAAAAJ:4TOpqqG69KYC",
@@ -57,7 +57,7 @@
       "citation_id": "qS2dYUAAAAAJ:M3ejUd6NZC8C",
       "title": "Macroeconomic impacts of oil price volatility: mitigation and resilience",
       "year": "2014",
-      "citations": 166
+      "citations": 167
     },
     {
       "citation_id": "qS2dYUAAAAAJ:IjCSPb-OGe4C",
@@ -72,16 +72,16 @@
       "citations": 135
     },
     {
-      "citation_id": "qS2dYUAAAAAJ:WF5omc3nYNoC",
-      "title": "Indirect emissions from electric vehicles: emissions from electricity generation",
-      "year": "2010",
-      "citations": 131
-    },
-    {
       "citation_id": "qS2dYUAAAAAJ:mVmsd5A6BfQC",
       "title": "Mechanistic studies of hydrocarbon combustion and synthesis on noble metals.",
       "year": "2008",
       "citations": 131
+    },
+    {
+      "citation_id": "qS2dYUAAAAAJ:WF5omc3nYNoC",
+      "title": "Indirect emissions from electric vehicles: emissions from electricity generation",
+      "year": "2010",
+      "citations": 130
     },
     {
       "citation_id": "qS2dYUAAAAAJ:Zph67rFs4hoC",
@@ -177,7 +177,7 @@
       "citation_id": "qS2dYUAAAAAJ:70eg2SAEIzsC",
       "title": "International collaboration: Mainstreaming artificial intelligence and cyberphysical systems for carbon neutrality",
       "year": "2024",
-      "citations": 35
+      "citations": 36
     },
     {
       "citation_id": "qS2dYUAAAAAJ:QIV2ME_5wuYC",
