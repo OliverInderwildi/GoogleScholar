@@ -1,10 +1,10 @@
 {
   "scholar_url": "https://scholar.google.com/citations?user=qS2dYUAAAAAJ&hl=en",
   "scholarId": "qS2dYUAAAAAJ",
-  "last_updated": "2026-07-06T09:51:19Z",
+  "last_updated": "2026-07-13T08:42:25Z",
   "metrics": {
-    "citations_all": 5730,
-    "citations_2021": 1871,
+    "citations_all": 5744,
+    "citations_2021": 1879,
     "hindex_all": 31,
     "hindex_2021": 20,
     "i10_all": 42,
@@ -15,19 +15,19 @@
       "citation_id": "qS2dYUAAAAAJ:qUcmZB5y_30C",
       "title": "Liquid fuels, hydrogen and chemicals from lignin: A critical review",
       "year": "2013",
-      "citations": 1402
+      "citations": 1403
     },
     {
       "citation_id": "qS2dYUAAAAAJ:d1gkVwhDpl0C",
       "title": "The status of conventional world oil reserves—Hype or cause for concern?",
       "year": "2010",
-      "citations": 723
+      "citations": 725
     },
     {
       "citation_id": "qS2dYUAAAAAJ:e5wmG9Sq2KIC",
       "title": "Fischer− Tropsch mechanism revisited: alternative pathways for the production of higher hydrocarbons from synthesis gas",
       "year": "2008",
-      "citations": 335
+      "citations": 336
     },
     {
       "citation_id": "qS2dYUAAAAAJ:roLk4NBRz8UC",
@@ -39,7 +39,7 @@
       "citation_id": "qS2dYUAAAAAJ:JV2RwH3_ST0C",
       "title": "The impact of intelligent cyber-physical systems on the decarbonization of energy",
       "year": "2020",
-      "citations": 247
+      "citations": 249
     },
     {
       "citation_id": "qS2dYUAAAAAJ:4TOpqqG69KYC",
@@ -57,7 +57,7 @@
       "citation_id": "qS2dYUAAAAAJ:M3ejUd6NZC8C",
       "title": "Macroeconomic impacts of oil price volatility: mitigation and resilience",
       "year": "2014",
-      "citations": 167
+      "citations": 169
     },
     {
       "citation_id": "qS2dYUAAAAAJ:IjCSPb-OGe4C",
@@ -72,16 +72,16 @@
       "citations": 135
     },
     {
-      "citation_id": "qS2dYUAAAAAJ:mVmsd5A6BfQC",
-      "title": "Mechanistic studies of hydrocarbon combustion and synthesis on noble metals.",
-      "year": "2008",
-      "citations": 131
-    },
-    {
       "citation_id": "qS2dYUAAAAAJ:WF5omc3nYNoC",
       "title": "Indirect emissions from electric vehicles: emissions from electricity generation",
       "year": "2010",
-      "citations": 130
+      "citations": 132
+    },
+    {
+      "citation_id": "qS2dYUAAAAAJ:mVmsd5A6BfQC",
+      "title": "Mechanistic studies of hydrocarbon combustion and synthesis on noble metals.",
+      "year": "2008",
+      "citations": 132
     },
     {
       "citation_id": "qS2dYUAAAAAJ:Zph67rFs4hoC",
@@ -96,22 +96,22 @@
       "citations": 117
     },
     {
+      "citation_id": "qS2dYUAAAAAJ:5nxA0vEk-isC",
+      "title": "Life cycle energy and greenhouse gas analysis for agave-derived bioethanol",
+      "year": "2011",
+      "citations": 109
+    },
+    {
       "citation_id": "qS2dYUAAAAAJ:Wp0gIr-vW9MC",
       "title": "Biofuels and synthetic fuels in the US and China: A review of Well-to-Wheel energy use and greenhouse gas emissions with the impact of land-use change",
       "year": "2010",
       "citations": 109
     },
     {
-      "citation_id": "qS2dYUAAAAAJ:5nxA0vEk-isC",
-      "title": "Life cycle energy and greenhouse gas analysis for agave-derived bioethanol",
-      "year": "2011",
-      "citations": 108
-    },
-    {
       "citation_id": "qS2dYUAAAAAJ:-f6ydRqryjwC",
       "title": "Competitive Adsorption of NO, NO2, CO2, and H2O on BaO(100): A Quantum Chemical Study",
       "year": "2006",
-      "citations": 79
+      "citations": 80
     },
     {
       "citation_id": "qS2dYUAAAAAJ:UebtZRa9Y70C",
@@ -141,7 +141,7 @@
       "citation_id": "qS2dYUAAAAAJ:u5HHmVD_uO8C",
       "title": "Effects of ethanol on vehicle energy efficiency and implications on ethanol life-cycle greenhouse gas analysis",
       "year": "2013",
-      "citations": 65
+      "citations": 66
     },
     {
       "citation_id": "qS2dYUAAAAAJ:W7OEmFMy1HYC",
@@ -194,7 +194,7 @@
     {
       "citation_id": "qS2dYUAAAAAJ:ufrVoPGSRksC",
       "title": "Global and local impacts of UK renewable energy policy",
-      "year": "2013",
+      "year": "2012",
       "citations": 33
     },
     {
