@@ -1,10 +1,10 @@
 {
   "scholar_url": "https://scholar.google.com/citations?user=qS2dYUAAAAAJ&hl=en",
   "scholarId": "qS2dYUAAAAAJ",
-  "last_updated": "2026-07-20T08:34:30Z",
+  "last_updated": "2026-07-27T09:23:28Z",
   "metrics": {
-    "citations_all": 5755,
-    "citations_2021": 1892,
+    "citations_all": 5758,
+    "citations_2021": 1894,
     "hindex_all": 31,
     "hindex_2021": 20,
     "i10_all": 42,
@@ -15,7 +15,7 @@
       "citation_id": "qS2dYUAAAAAJ:qUcmZB5y_30C",
       "title": "Liquid fuels, hydrogen and chemicals from lignin: A critical review",
       "year": "2013",
-      "citations": 1404
+      "citations": 1405
     },
     {
       "citation_id": "qS2dYUAAAAAJ:d1gkVwhDpl0C",
@@ -27,25 +27,25 @@
       "citation_id": "qS2dYUAAAAAJ:e5wmG9Sq2KIC",
       "title": "Fischer− Tropsch mechanism revisited: alternative pathways for the production of higher hydrocarbons from synthesis gas",
       "year": "2008",
-      "citations": 336
+      "citations": 337
     },
     {
       "citation_id": "qS2dYUAAAAAJ:roLk4NBRz8UC",
       "title": "Quo vadis biofuels?",
       "year": "2009",
-      "citations": 259
+      "citations": 261
     },
     {
       "citation_id": "qS2dYUAAAAAJ:JV2RwH3_ST0C",
       "title": "The impact of intelligent cyber-physical systems on the decarbonization of energy",
       "year": "2020",
-      "citations": 253
+      "citations": 252
     },
     {
       "citation_id": "qS2dYUAAAAAJ:4TOpqqG69KYC",
       "title": "Life cycle energy and greenhouse gas analysis for algae-derived biodiesel",
       "year": "2011",
-      "citations": 205
+      "citations": 204
     },
     {
       "citation_id": "qS2dYUAAAAAJ:IWHjjKOFINEC",
@@ -57,7 +57,7 @@
       "citation_id": "qS2dYUAAAAAJ:M3ejUd6NZC8C",
       "title": "Macroeconomic impacts of oil price volatility: mitigation and resilience",
       "year": "2014",
-      "citations": 171
+      "citations": 172
     },
     {
       "citation_id": "qS2dYUAAAAAJ:IjCSPb-OGe4C",
@@ -75,7 +75,7 @@
       "citation_id": "qS2dYUAAAAAJ:WF5omc3nYNoC",
       "title": "Indirect emissions from electric vehicles: emissions from electricity generation",
       "year": "2010",
-      "citations": 133
+      "citations": 134
     },
     {
       "citation_id": "qS2dYUAAAAAJ:mVmsd5A6BfQC",
@@ -111,7 +111,7 @@
       "citation_id": "qS2dYUAAAAAJ:-f6ydRqryjwC",
       "title": "Competitive Adsorption of NO, NO2, CO2, and H2O on BaO(100): A Quantum Chemical Study",
       "year": "2006",
-      "citations": 81
+      "citations": 80
     },
     {
       "citation_id": "qS2dYUAAAAAJ:UebtZRa9Y70C",
@@ -153,7 +153,7 @@
       "citation_id": "qS2dYUAAAAAJ:u-x6o8ySG0sC",
       "title": "Energy, transport, & the environment: addressing the sustainable mobility paradigm",
       "year": "2012",
-      "citations": 57
+      "citations": 58
     },
     {
       "citation_id": "qS2dYUAAAAAJ:Se3iqnhoufwC",
@@ -222,12 +222,6 @@
       "citations": 29
     },
     {
-      "citation_id": "qS2dYUAAAAAJ:ns9cj8rnVeAC",
-      "title": "Intelligent decarbonisation",
-      "year": "2022",
-      "citations": 28
-    },
-    {
       "citation_id": "qS2dYUAAAAAJ:8k81kl-MbHgC",
       "title": "Unraveling the Fischer–Tropsch mechanism: A combined DFT and microkinetic investigation of C–C bond formation on Ru",
       "year": "2012",
@@ -244,6 +238,12 @@
       "title": "Linear relationship between activation energies and reaction energies for coverage-dependent dissociation reactions on rhodium surfaces",
       "year": "2005",
       "citations": 28
+    },
+    {
+      "citation_id": "qS2dYUAAAAAJ:ns9cj8rnVeAC",
+      "title": "Intelligent decarbonisation",
+      "year": "2022",
+      "citations": 27
     },
     {
       "citation_id": "qS2dYUAAAAAJ:TFP_iSt0sucC",
