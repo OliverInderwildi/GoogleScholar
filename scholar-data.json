@@ -1,10 +1,10 @@
 {
   "scholar_url": "https://scholar.google.com/citations?user=qS2dYUAAAAAJ&hl=en",
   "scholarId": "qS2dYUAAAAAJ",
-  "last_updated": "2026-08-10T07:05:17Z",
+  "last_updated": "2026-08-17T06:28:34Z",
   "metrics": {
-    "citations_all": 5749,
-    "citations_2021": 1887,
+    "citations_all": 5761,
+    "citations_2021": 1900,
     "hindex_all": 31,
     "hindex_2021": 20,
     "i10_all": 42,
@@ -15,13 +15,13 @@
       "citation_id": "qS2dYUAAAAAJ:qUcmZB5y_30C",
       "title": "Liquid fuels, hydrogen and chemicals from lignin: A critical review",
       "year": "2013",
-      "citations": 1415
+      "citations": 1418
     },
     {
       "citation_id": "qS2dYUAAAAAJ:d1gkVwhDpl0C",
       "title": "The status of conventional world oil reserves—Hype or cause for concern?",
       "year": "2010",
-      "citations": 727
+      "citations": 728
     },
     {
       "citation_id": "qS2dYUAAAAAJ:e5wmG9Sq2KIC",
@@ -57,7 +57,7 @@
       "citation_id": "qS2dYUAAAAAJ:M3ejUd6NZC8C",
       "title": "Macroeconomic impacts of oil price volatility: mitigation and resilience",
       "year": "2014",
-      "citations": 169
+      "citations": 171
     },
     {
       "citation_id": "qS2dYUAAAAAJ:IjCSPb-OGe4C",
@@ -75,7 +75,7 @@
       "citation_id": "qS2dYUAAAAAJ:WF5omc3nYNoC",
       "title": "Indirect emissions from electric vehicles: emissions from electricity generation",
       "year": "2010",
-      "citations": 131
+      "citations": 132
     },
     {
       "citation_id": "qS2dYUAAAAAJ:mVmsd5A6BfQC",
@@ -123,7 +123,7 @@
       "citation_id": "qS2dYUAAAAAJ:UeHWp8X0CEIC",
       "title": "When adding an unreactive metal enhances catalytic activity: NOx decomposition over silver–rhodium bimetallic surfaces",
       "year": "2007",
-      "citations": 77
+      "citations": 78
     },
     {
       "citation_id": "qS2dYUAAAAAJ:hFOr9nPyWt4C",
@@ -177,7 +177,7 @@
       "citation_id": "qS2dYUAAAAAJ:70eg2SAEIzsC",
       "title": "International collaboration: Mainstreaming artificial intelligence and cyberphysical systems for carbon neutrality",
       "year": "2024",
-      "citations": 35
+      "citations": 37
     },
     {
       "citation_id": "qS2dYUAAAAAJ:QIV2ME_5wuYC",
@@ -198,22 +198,22 @@
       "citations": 34
     },
     {
-      "citation_id": "qS2dYUAAAAAJ:L8Ckcad2t8MC",
-      "title": "Dynamic interplay between diffusion and reaction: Nitrogen recombination on Rh {211} in car exhaust catalysis",
-      "year": "2008",
-      "citations": 31
-    },
-    {
       "citation_id": "qS2dYUAAAAAJ:GnPB-g6toBAC",
       "title": "The world avatar—A world model for facilitating interoperability",
       "year": "2022",
-      "citations": 30
+      "citations": 31
     },
     {
       "citation_id": "qS2dYUAAAAAJ:YOwf2qJgpHMC",
       "title": "The Catalyst Selectivity Index (CSI): A Framework and Metric to Assess the Impact of Catalyst Efficiency Enhancements upon Energy and CO2 Footprints",
       "year": "2015",
-      "citations": 30
+      "citations": 31
+    },
+    {
+      "citation_id": "qS2dYUAAAAAJ:L8Ckcad2t8MC",
+      "title": "Dynamic interplay between diffusion and reaction: Nitrogen recombination on Rh {211} in car exhaust catalysis",
+      "year": "2008",
+      "citations": 31
     },
     {
       "citation_id": "qS2dYUAAAAAJ:ULOm3_A8WrAC",
