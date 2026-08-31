@@ -1,10 +1,10 @@
 {
   "scholar_url": "https://scholar.google.com/citations?user=qS2dYUAAAAAJ&hl=en",
   "scholarId": "qS2dYUAAAAAJ",
-  "last_updated": "2026-08-24T06:32:26Z",
+  "last_updated": "2026-08-31T11:59:52Z",
   "metrics": {
-    "citations_all": 5768,
-    "citations_2021": 1907,
+    "citations_all": 5773,
+    "citations_2021": 1906,
     "hindex_all": 31,
     "hindex_2021": 20,
     "i10_all": 42,
@@ -21,7 +21,7 @@
       "citation_id": "qS2dYUAAAAAJ:d1gkVwhDpl0C",
       "title": "The status of conventional world oil reserves—Hype or cause for concern?",
       "year": "2010",
-      "citations": 730
+      "citations": 728
     },
     {
       "citation_id": "qS2dYUAAAAAJ:e5wmG9Sq2KIC",
@@ -39,7 +39,7 @@
       "citation_id": "qS2dYUAAAAAJ:roLk4NBRz8UC",
       "title": "Quo vadis biofuels?",
       "year": "2009",
-      "citations": 251
+      "citations": 252
     },
     {
       "citation_id": "qS2dYUAAAAAJ:4TOpqqG69KYC",
@@ -57,13 +57,13 @@
       "citation_id": "qS2dYUAAAAAJ:M3ejUd6NZC8C",
       "title": "Macroeconomic impacts of oil price volatility: mitigation and resilience",
       "year": "2014",
-      "citations": 172
+      "citations": 173
     },
     {
       "citation_id": "qS2dYUAAAAAJ:IjCSPb-OGe4C",
       "title": "Electronic and optical properties of aluminium-doped anatase and rutile from ab initio calculations",
       "year": "2010",
-      "citations": 150
+      "citations": 151
     },
     {
       "citation_id": "qS2dYUAAAAAJ:RHpTSmoSYBkC",
@@ -75,7 +75,7 @@
       "citation_id": "qS2dYUAAAAAJ:WF5omc3nYNoC",
       "title": "Indirect emissions from electric vehicles: emissions from electricity generation",
       "year": "2010",
-      "citations": 132
+      "citations": 133
     },
     {
       "citation_id": "qS2dYUAAAAAJ:mVmsd5A6BfQC",
@@ -114,16 +114,16 @@
       "citations": 81
     },
     {
+      "citation_id": "qS2dYUAAAAAJ:UeHWp8X0CEIC",
+      "title": "When adding an unreactive metal enhances catalytic activity: NOx decomposition over silver–rhodium bimetallic surfaces",
+      "year": "2007",
+      "citations": 79
+    },
+    {
       "citation_id": "qS2dYUAAAAAJ:UebtZRa9Y70C",
       "title": "Coverage dependence of oxygen decomposition and surface diffusion on rhodium (111): A DFT study",
       "year": "2005",
       "citations": 79
-    },
-    {
-      "citation_id": "qS2dYUAAAAAJ:UeHWp8X0CEIC",
-      "title": "When adding an unreactive metal enhances catalytic activity: NOx decomposition over silver–rhodium bimetallic surfaces",
-      "year": "2007",
-      "citations": 78
     },
     {
       "citation_id": "qS2dYUAAAAAJ:hFOr9nPyWt4C",
@@ -153,7 +153,7 @@
       "citation_id": "qS2dYUAAAAAJ:u-x6o8ySG0sC",
       "title": "Energy, transport, & the environment: addressing the sustainable mobility paradigm",
       "year": "2012",
-      "citations": 56
+      "citations": 57
     },
     {
       "citation_id": "qS2dYUAAAAAJ:Se3iqnhoufwC",
@@ -222,15 +222,15 @@
       "citations": 30
     },
     {
-      "citation_id": "qS2dYUAAAAAJ:8k81kl-MbHgC",
-      "title": "Unraveling the Fischer–Tropsch mechanism: a combined DFT and microkinetic investigation of C–C bond formation on Ru",
-      "year": "2012",
-      "citations": 28
-    },
-    {
       "citation_id": "qS2dYUAAAAAJ:0EnyYjriUFMC",
       "title": "Synergetic effects of the Cu/Pt {110} surface Alloy: Enhanced reactivity of water and carbon monoxide",
       "year": "2008",
+      "citations": 29
+    },
+    {
+      "citation_id": "qS2dYUAAAAAJ:8k81kl-MbHgC",
+      "title": "Unraveling the Fischer–Tropsch mechanism: a combined DFT and microkinetic investigation of C–C bond formation on Ru",
+      "year": "2012",
       "citations": 28
     },
     {
