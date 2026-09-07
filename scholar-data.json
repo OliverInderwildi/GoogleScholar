@@ -1,39 +1,39 @@
 {
   "scholar_url": "https://scholar.google.com/citations?user=qS2dYUAAAAAJ&hl=en",
   "scholarId": "qS2dYUAAAAAJ",
-  "last_updated": "2026-08-31T11:59:52Z",
+  "last_updated": "2026-09-07T10:54:09Z",
   "metrics": {
-    "citations_all": 5773,
-    "citations_2021": 1906,
+    "citations_all": 5779,
+    "citations_2021": 1912,
     "hindex_all": 31,
     "hindex_2021": 20,
     "i10_all": 42,
-    "i10_2021": 29
+    "i10_2021": 30
   },
   "publications": [
     {
       "citation_id": "qS2dYUAAAAAJ:qUcmZB5y_30C",
       "title": "Liquid fuels, hydrogen and chemicals from lignin: A critical review",
       "year": "2013",
-      "citations": 1418
+      "citations": 1419
     },
     {
       "citation_id": "qS2dYUAAAAAJ:d1gkVwhDpl0C",
       "title": "The status of conventional world oil reserves—Hype or cause for concern?",
       "year": "2010",
-      "citations": 728
+      "citations": 729
     },
     {
       "citation_id": "qS2dYUAAAAAJ:e5wmG9Sq2KIC",
       "title": "Fischer− Tropsch mechanism revisited: alternative pathways for the production of higher hydrocarbons from synthesis gas",
       "year": "2008",
-      "citations": 334
+      "citations": 335
     },
     {
       "citation_id": "qS2dYUAAAAAJ:JV2RwH3_ST0C",
       "title": "The impact of intelligent cyber-physical systems on the decarbonization of energy",
       "year": "2020",
-      "citations": 252
+      "citations": 254
     },
     {
       "citation_id": "qS2dYUAAAAAJ:roLk4NBRz8UC",
@@ -57,7 +57,7 @@
       "citation_id": "qS2dYUAAAAAJ:M3ejUd6NZC8C",
       "title": "Macroeconomic impacts of oil price volatility: mitigation and resilience",
       "year": "2014",
-      "citations": 173
+      "citations": 174
     },
     {
       "citation_id": "qS2dYUAAAAAJ:IjCSPb-OGe4C",
@@ -69,7 +69,7 @@
       "citation_id": "qS2dYUAAAAAJ:RHpTSmoSYBkC",
       "title": "The future of industrial biorefineries",
       "year": "2010",
-      "citations": 143
+      "citations": 144
     },
     {
       "citation_id": "qS2dYUAAAAAJ:WF5omc3nYNoC",
@@ -111,19 +111,19 @@
       "citation_id": "qS2dYUAAAAAJ:-f6ydRqryjwC",
       "title": "Competitive Adsorption of NO, NO2, CO2, and H2O on BaO(100): A Quantum Chemical Study",
       "year": "2006",
-      "citations": 81
-    },
-    {
-      "citation_id": "qS2dYUAAAAAJ:UeHWp8X0CEIC",
-      "title": "When adding an unreactive metal enhances catalytic activity: NOx decomposition over silver–rhodium bimetallic surfaces",
-      "year": "2007",
-      "citations": 79
+      "citations": 82
     },
     {
       "citation_id": "qS2dYUAAAAAJ:UebtZRa9Y70C",
       "title": "Coverage dependence of oxygen decomposition and surface diffusion on rhodium (111): A DFT study",
       "year": "2005",
       "citations": 79
+    },
+    {
+      "citation_id": "qS2dYUAAAAAJ:UeHWp8X0CEIC",
+      "title": "When adding an unreactive metal enhances catalytic activity: NOx decomposition over silver–rhodium bimetallic surfaces",
+      "year": "2007",
+      "citations": 78
     },
     {
       "citation_id": "qS2dYUAAAAAJ:hFOr9nPyWt4C",
@@ -222,15 +222,15 @@
       "citations": 30
     },
     {
-      "citation_id": "qS2dYUAAAAAJ:0EnyYjriUFMC",
-      "title": "Synergetic effects of the Cu/Pt {110} surface Alloy: Enhanced reactivity of water and carbon monoxide",
-      "year": "2008",
-      "citations": 29
-    },
-    {
       "citation_id": "qS2dYUAAAAAJ:8k81kl-MbHgC",
       "title": "Unraveling the Fischer–Tropsch mechanism: a combined DFT and microkinetic investigation of C–C bond formation on Ru",
       "year": "2012",
+      "citations": 28
+    },
+    {
+      "citation_id": "qS2dYUAAAAAJ:0EnyYjriUFMC",
+      "title": "Synergetic effects of the Cu/Pt {110} surface Alloy: Enhanced reactivity of water and carbon monoxide",
+      "year": "2008",
       "citations": 28
     },
     {
