@@ -1,10 +1,10 @@
 {
   "scholar_url": "https://scholar.google.com/citations?user=qS2dYUAAAAAJ&hl=en",
   "scholarId": "qS2dYUAAAAAJ",
-  "last_updated": "2026-09-14T11:06:37Z",
+  "last_updated": "2026-09-21T11:16:46Z",
   "metrics": {
-    "citations_all": 5783,
-    "citations_2021": 1913,
+    "citations_all": 5785,
+    "citations_2021": 1914,
     "hindex_all": 31,
     "hindex_2021": 20,
     "i10_all": 42,
@@ -51,7 +51,7 @@
       "citation_id": "qS2dYUAAAAAJ:IWHjjKOFINEC",
       "title": "The carbon curse: Are fuel rich countries doomed to high CO2 intensities?",
       "year": "2013",
-      "citations": 187
+      "citations": 188
     },
     {
       "citation_id": "qS2dYUAAAAAJ:M3ejUd6NZC8C",
@@ -114,16 +114,16 @@
       "citations": 82
     },
     {
+      "citation_id": "qS2dYUAAAAAJ:UeHWp8X0CEIC",
+      "title": "When adding an unreactive metal enhances catalytic activity: NOx decomposition over silver–rhodium bimetallic surfaces",
+      "year": "2007",
+      "citations": 79
+    },
+    {
       "citation_id": "qS2dYUAAAAAJ:UebtZRa9Y70C",
       "title": "Coverage dependence of oxygen decomposition and surface diffusion on rhodium (111): A DFT study",
       "year": "2005",
       "citations": 79
-    },
-    {
-      "citation_id": "qS2dYUAAAAAJ:UeHWp8X0CEIC",
-      "title": "When adding an unreactive metal enhances catalytic activity: NOx decomposition over silver–rhodium bimetallic surfaces",
-      "year": "2007",
-      "citations": 78
     },
     {
       "citation_id": "qS2dYUAAAAAJ:hFOr9nPyWt4C",
