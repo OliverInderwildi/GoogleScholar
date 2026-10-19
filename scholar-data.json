@@ -1,10 +1,10 @@
 {
   "scholar_url": "https://scholar.google.com/citations?user=qS2dYUAAAAAJ&hl=en",
   "scholarId": "qS2dYUAAAAAJ",
-  "last_updated": "2026-10-12T13:43:16Z",
+  "last_updated": "2026-10-19T11:25:10Z",
   "metrics": {
-    "citations_all": 5813,
-    "citations_2021": 1930,
+    "citations_all": 5822,
+    "citations_2021": 1936,
     "hindex_all": 31,
     "hindex_2021": 20,
     "i10_all": 42,
@@ -15,13 +15,13 @@
       "citation_id": "qS2dYUAAAAAJ:qUcmZB5y_30C",
       "title": "Liquid fuels, hydrogen and chemicals from lignin: A critical review",
       "year": "2013",
-      "citations": 1423
+      "citations": 1425
     },
     {
       "citation_id": "qS2dYUAAAAAJ:d1gkVwhDpl0C",
       "title": "The status of conventional world oil reserves—Hype or cause for concern?",
       "year": "2010",
-      "citations": 732
+      "citations": 733
     },
     {
       "citation_id": "qS2dYUAAAAAJ:e5wmG9Sq2KIC",
@@ -33,7 +33,7 @@
       "citation_id": "qS2dYUAAAAAJ:JV2RwH3_ST0C",
       "title": "The impact of intelligent cyber-physical systems on the decarbonization of energy",
       "year": "2020",
-      "citations": 258
+      "citations": 259
     },
     {
       "citation_id": "qS2dYUAAAAAJ:roLk4NBRz8UC",
@@ -51,13 +51,13 @@
       "citation_id": "qS2dYUAAAAAJ:IWHjjKOFINEC",
       "title": "The carbon curse: Are fuel rich countries doomed to high CO2 intensities?",
       "year": "2013",
-      "citations": 188
+      "citations": 189
     },
     {
       "citation_id": "qS2dYUAAAAAJ:M3ejUd6NZC8C",
       "title": "Macroeconomic impacts of oil price volatility: mitigation and resilience",
       "year": "2014",
-      "citations": 178
+      "citations": 179
     },
     {
       "citation_id": "qS2dYUAAAAAJ:IjCSPb-OGe4C",
@@ -105,7 +105,7 @@
       "citation_id": "qS2dYUAAAAAJ:5nxA0vEk-isC",
       "title": "Life cycle energy and greenhouse gas analysis for agave-derived bioethanol",
       "year": "2011",
-      "citations": 107
+      "citations": 108
     },
     {
       "citation_id": "qS2dYUAAAAAJ:-f6ydRqryjwC",
@@ -114,15 +114,15 @@
       "citations": 83
     },
     {
-      "citation_id": "qS2dYUAAAAAJ:UeHWp8X0CEIC",
-      "title": "When adding an unreactive metal enhances catalytic activity: NOx decomposition over silver–rhodium bimetallic surfaces",
-      "year": "2007",
-      "citations": 79
-    },
-    {
       "citation_id": "qS2dYUAAAAAJ:UebtZRa9Y70C",
       "title": "Coverage dependence of oxygen decomposition and surface diffusion on rhodium (111): A DFT study",
       "year": "2005",
+      "citations": 80
+    },
+    {
+      "citation_id": "qS2dYUAAAAAJ:UeHWp8X0CEIC",
+      "title": "When adding an unreactive metal enhances catalytic activity: NOx decomposition over silver–rhodium bimetallic surfaces",
+      "year": "2007",
       "citations": 79
     },
     {
@@ -180,6 +180,12 @@
       "citations": 39
     },
     {
+      "citation_id": "qS2dYUAAAAAJ:ufrVoPGSRksC",
+      "title": "Global and local impacts of UK renewable energy policy",
+      "year": "2012",
+      "citations": 35
+    },
+    {
       "citation_id": "qS2dYUAAAAAJ:QIV2ME_5wuYC",
       "title": "Theoretical insights into the surface growth of rutile TiO2",
       "year": "2011",
@@ -190,12 +196,6 @@
       "title": "Influence of initial oxygen coverage and magnetic moment on the NO decomposition on rhodium (111)",
       "year": "2005",
       "citations": 35
-    },
-    {
-      "citation_id": "qS2dYUAAAAAJ:ufrVoPGSRksC",
-      "title": "Global and local impacts of UK renewable energy policy",
-      "year": "2012",
-      "citations": 34
     },
     {
       "citation_id": "qS2dYUAAAAAJ:GnPB-g6toBAC",
