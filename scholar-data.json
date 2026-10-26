@@ -1,10 +1,10 @@
 {
   "scholar_url": "https://scholar.google.com/citations?user=qS2dYUAAAAAJ&hl=en",
   "scholarId": "qS2dYUAAAAAJ",
-  "last_updated": "2026-10-19T11:25:10Z",
+  "last_updated": "2026-10-26T11:43:21Z",
   "metrics": {
-    "citations_all": 5822,
-    "citations_2021": 1936,
+    "citations_all": 5827,
+    "citations_2021": 1942,
     "hindex_all": 31,
     "hindex_2021": 20,
     "i10_all": 42,
@@ -15,13 +15,13 @@
       "citation_id": "qS2dYUAAAAAJ:qUcmZB5y_30C",
       "title": "Liquid fuels, hydrogen and chemicals from lignin: A critical review",
       "year": "2013",
-      "citations": 1425
+      "citations": 1426
     },
     {
       "citation_id": "qS2dYUAAAAAJ:d1gkVwhDpl0C",
       "title": "The status of conventional world oil reserves—Hype or cause for concern?",
       "year": "2010",
-      "citations": 733
+      "citations": 734
     },
     {
       "citation_id": "qS2dYUAAAAAJ:e5wmG9Sq2KIC",
@@ -51,13 +51,13 @@
       "citation_id": "qS2dYUAAAAAJ:IWHjjKOFINEC",
       "title": "The carbon curse: Are fuel rich countries doomed to high CO2 intensities?",
       "year": "2013",
-      "citations": 189
+      "citations": 190
     },
     {
       "citation_id": "qS2dYUAAAAAJ:M3ejUd6NZC8C",
       "title": "Macroeconomic impacts of oil price volatility: mitigation and resilience",
       "year": "2014",
-      "citations": 179
+      "citations": 180
     },
     {
       "citation_id": "qS2dYUAAAAAJ:IjCSPb-OGe4C",
@@ -105,7 +105,7 @@
       "citation_id": "qS2dYUAAAAAJ:5nxA0vEk-isC",
       "title": "Life cycle energy and greenhouse gas analysis for agave-derived bioethanol",
       "year": "2011",
-      "citations": 108
+      "citations": 107
     },
     {
       "citation_id": "qS2dYUAAAAAJ:-f6ydRqryjwC",
@@ -222,6 +222,12 @@
       "citations": 30
     },
     {
+      "citation_id": "qS2dYUAAAAAJ:ns9cj8rnVeAC",
+      "title": "Intelligent decarbonisation",
+      "year": "2022",
+      "citations": 29
+    },
+    {
       "citation_id": "qS2dYUAAAAAJ:8k81kl-MbHgC",
       "title": "Unraveling the Fischer–Tropsch mechanism: a combined DFT and microkinetic investigation of C–C bond formation on Ru",
       "year": "2012",
@@ -238,12 +244,6 @@
       "title": "Linear relationship between activation energies and reaction energies for coverage-dependent dissociation reactions on rhodium surfaces",
       "year": "2005",
       "citations": 28
-    },
-    {
-      "citation_id": "qS2dYUAAAAAJ:ns9cj8rnVeAC",
-      "title": "Intelligent decarbonisation",
-      "year": "2022",
-      "citations": 27
     },
     {
       "citation_id": "qS2dYUAAAAAJ:TFP_iSt0sucC",
