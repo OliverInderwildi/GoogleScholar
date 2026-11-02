@@ -1,10 +1,10 @@
 {
   "scholar_url": "https://scholar.google.com/citations?user=qS2dYUAAAAAJ&hl=en",
   "scholarId": "qS2dYUAAAAAJ",
-  "last_updated": "2026-10-26T11:43:21Z",
+  "last_updated": "2026-11-02T13:59:44Z",
   "metrics": {
-    "citations_all": 5827,
-    "citations_2021": 1942,
+    "citations_all": 5834,
+    "citations_2021": 1950,
     "hindex_all": 31,
     "hindex_2021": 20,
     "i10_all": 42,
@@ -33,7 +33,7 @@
       "citation_id": "qS2dYUAAAAAJ:JV2RwH3_ST0C",
       "title": "The impact of intelligent cyber-physical systems on the decarbonization of energy",
       "year": "2020",
-      "citations": 259
+      "citations": 260
     },
     {
       "citation_id": "qS2dYUAAAAAJ:roLk4NBRz8UC",
@@ -45,7 +45,7 @@
       "citation_id": "qS2dYUAAAAAJ:4TOpqqG69KYC",
       "title": "Life cycle energy and greenhouse gas analysis for algae-derived biodiesel",
       "year": "2011",
-      "citations": 206
+      "citations": 207
     },
     {
       "citation_id": "qS2dYUAAAAAJ:IWHjjKOFINEC",
@@ -57,7 +57,7 @@
       "citation_id": "qS2dYUAAAAAJ:M3ejUd6NZC8C",
       "title": "Macroeconomic impacts of oil price volatility: mitigation and resilience",
       "year": "2014",
-      "citations": 180
+      "citations": 181
     },
     {
       "citation_id": "qS2dYUAAAAAJ:IjCSPb-OGe4C",
@@ -87,7 +87,7 @@
       "citation_id": "qS2dYUAAAAAJ:Zph67rFs4hoC",
       "title": "The carbon footprint and non-renewable energy demand of algae-derived biodiesel",
       "year": "2014",
-      "citations": 126
+      "citations": 127
     },
     {
       "citation_id": "qS2dYUAAAAAJ:_Qo2XoVZTnwC",
@@ -159,7 +159,7 @@
       "citation_id": "qS2dYUAAAAAJ:Se3iqnhoufwC",
       "title": "Simulation and life cycle assessment of algae gasification process in dual fluidized bed gasifiers",
       "year": "2015",
-      "citations": 47
+      "citations": 48
     },
     {
       "citation_id": "qS2dYUAAAAAJ:LkGwnXOMwfcC",
@@ -216,22 +216,22 @@
       "citations": 31
     },
     {
+      "citation_id": "qS2dYUAAAAAJ:ns9cj8rnVeAC",
+      "title": "Intelligent decarbonisation",
+      "year": "2022",
+      "citations": 30
+    },
+    {
       "citation_id": "qS2dYUAAAAAJ:ULOm3_A8WrAC",
       "title": "Fischer-Tropsch synthesis of liquid fuels: learning lessons from homogeneous catalysis",
       "year": "2009",
       "citations": 30
     },
     {
-      "citation_id": "qS2dYUAAAAAJ:ns9cj8rnVeAC",
-      "title": "Intelligent decarbonisation",
-      "year": "2022",
-      "citations": 29
-    },
-    {
       "citation_id": "qS2dYUAAAAAJ:8k81kl-MbHgC",
       "title": "Unraveling the Fischer–Tropsch mechanism: a combined DFT and microkinetic investigation of C–C bond formation on Ru",
       "year": "2012",
-      "citations": 28
+      "citations": 29
     },
     {
       "citation_id": "qS2dYUAAAAAJ:0EnyYjriUFMC",
